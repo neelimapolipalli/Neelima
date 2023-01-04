@@ -10,6 +10,5 @@ for i in range(0,n):
 for i in range(n):
     for j in range(n):
         if i==j:
-            sum=sum+A[i][j]
-print(sum)
+            print(A[i][j])
 
